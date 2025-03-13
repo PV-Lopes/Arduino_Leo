@@ -1,4 +1,4 @@
-como Funciona?
+como Funciona? /n
 -O Arduino envia as letras a, b, c, d pela porta Serial ao pressionar um botão.
 -O script Python no PC recebe os dados Serial e processa as respostas do usuário.
 -O Python pode verificar se a resposta está correta, sem precisar de internet.
